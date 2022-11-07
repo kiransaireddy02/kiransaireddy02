@@ -14,7 +14,7 @@
 <a href="https://dev.to/kiransaireddy02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kiransaireddy02" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/suda-kiran-sai-reddy-99448b21a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suda-kiran-sai-reddy-99448b21a" height="30" width="40" /></a>
 <a href="https://instagram.com/kiransaireddy02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kiransaireddy02" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/edutech with ksr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="edutech with ksr" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ucczmc7gfsqjy7igbhnvdong" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucczmc7gfsqjy7igbhnvdong" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/kiransaireddy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kiransaireddy" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/kiransaireddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kiransaireddy" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/kiransaireddy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kiransaireddy" height="30" width="40" /></a>
@@ -32,4 +32,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kiransaireddy02&show_icons=true&locale=en" alt="kiransaireddy02" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kiransaireddy02&" alt="kiransaireddy02" /></p>
-
